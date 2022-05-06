@@ -52,4 +52,3 @@ would very likely leave our site if they could not figure out what was going on.
 * Add proper name to navigation link in product page
 * Increase text size for "featured products" and "new products" heading on home page
 * Add message when products are added to the cart
-* Fix overlapping text issue
