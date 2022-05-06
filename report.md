@@ -6,3 +6,6 @@
 <h3>Changes to be made based of critque</h3>
 <p>Reduce White space</p>
 <p>Center page items</p>
+<p>Add colour in Nav Bar</p>
+<p>Fix form resubmisson issue</p>
+<p>Add prices for shipping</p>
