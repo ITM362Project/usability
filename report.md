@@ -43,13 +43,13 @@ this, this alone puts us at a great disadvantage because if this were a deployed
 would very likely leave our site if they could not figure out what was going on.</p>
 
 
-<h3>Changes to be made based of critque</h3>
-<p>Reduce White space</p>
-<p>Center page items</p>
-<p>Add colour in Nav Bar</p>
-<p>Fix form resubmisson issue</p>
-<p>Add prices for shipping</p>
-<p>Add proper name to navigation link in product page</p>
-<p>Increase text size for "featured products" and "new products" heading on home page</p>
-<p>Add message when products are added to the cart</p>
-<p>Fix overlapping text issue</p>
+## Changes to be made based of critque
+* Reduce White space
+* Center page items
+* Add colour in Nav Bar
+* Fix form resubmisson issue
+* Add prices for shipping
+* Add proper name to navigation link in product page
+* Increase text size for "featured products" and "new products" heading on home page
+* Add message when products are added to the cart
+* Fix overlapping text issue
