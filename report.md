@@ -43,7 +43,7 @@ this, this alone puts us at a great disadvantage because if this were a deployed
 would very likely leave our site if they could not figure out what was going on.</p>
 
 
-##Changes to be made based of critque
+## Changes to be made based of critque
 * Reduce White space
 * Center page items
 * Add colour in Nav Bar
