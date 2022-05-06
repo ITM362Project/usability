@@ -44,12 +44,12 @@ would very likely leave our site if they could not figure out what was going on.
 
 
 <h3>Changes to be made based of critque</h3>
-[]Reduce White space
-[]Center page items
-[]Add colour in Nav Bar
-[]Fix form resubmisson issue
-[]Add prices for shipping
-[]Add proper name to navigation link in product page
-[]Increase text size for "featured products" and "new products" heading on home page
-[]Add message when products are added to the cart
-[]Fix overlapping text issue
+[ ]Reduce White space
+[ ]Center page items
+[ ]Add colour in Nav Bar
+[ ]Fix form resubmisson issue
+[ ]Add prices for shipping
+[ ]Add proper name to navigation link in product page
+[ ]Increase text size for "featured products" and "new products" heading on home page
+[ ]Add message when products are added to the cart
+[ ]Fix overlapping text issue
